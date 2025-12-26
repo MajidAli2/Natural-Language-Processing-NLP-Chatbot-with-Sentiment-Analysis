@@ -1,0 +1,8 @@
+your-openrouter-api-key-here
+API KEYS OF DIFFERENT LLMS
+
+Deepseek R1 =
+ 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
+
+Moonshot AI =
+ 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
